@@ -17,3 +17,4 @@ g++ -o main.exe main.cpp easylogging++.cc
 
 # Reference
 [1] https://github.com/amrayn/easyloggingpp  
+[2] https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC?si=863d6c9825ce4b6c
