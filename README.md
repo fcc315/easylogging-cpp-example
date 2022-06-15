@@ -15,4 +15,5 @@ g++ -o main.exe main.cpp easylogging++.cc
 ./main.exe
 ```
 
-
+# Reference
+[1] https://github.com/amrayn/easyloggingpp  
