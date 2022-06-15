@@ -1,5 +1,6 @@
 # easylogging-cpp-example
-This repo provides an example for using easylogging++ when needs to log different level message into different files.
+This repo provides an example for using easylogging++ when needs to log different level message into multiple files.  
+The example is using inline configuration instead of using another configure file.
 
 # Configuration
 Windows  
